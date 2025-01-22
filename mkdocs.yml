@@ -1,4 +1,4 @@
-site_name: panduan aplikasi manajemen pegawai
+site_name: Panduan System Informasi Pelaporan Pelanggaran
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -6,16 +6,16 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary:  lime  
-      accent: lime
+      primary: blue grey 
+      accent:  blue grey 
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
-      primary:  lime  
-      accent: lime
+    - scheme: default
+      primary: blue grey  
+      accent: blue grey
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
@@ -64,11 +64,11 @@ plugins:
   - search
 
 # Footer
-copyright: Made with by kikuk | ᕦ(ò_óˇ)ᕤ
+copyright: By Made  🤍 by TechnoMancers| ☺ 2025
 
 extra:
   generator: false
   social:
    - icon: fontawesome/brands/github
-     link: https://github.com/IndraFaruq 
+     link: https://github.com/TechnoMancers 
 
