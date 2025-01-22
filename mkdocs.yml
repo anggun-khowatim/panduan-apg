@@ -7,15 +7,15 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       primary: blue grey 
-      accent:  blue grey 
+      accent:  blue rey 
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: default
-      primary: blue grey  
-      accent: blue grey
+    - scheme: slate
+      primary: grey  
+      accent: grey
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
